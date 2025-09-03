@@ -1,5 +1,5 @@
 ---
-title: "Why this blog"
+title: "About"
 image: hendrik.jpg
 about:
   template: jolla
