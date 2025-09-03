@@ -1,19 +1,21 @@
 ---
-title: "About"
+title: "Why this blog"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/HendrikReh91441
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/hendrik-reh/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/HendrikReh
 
 ---
 
-About this blog
+The e-commerce architectures I built in 2015 weren’t designed for the agent-driven, tool-using AI systems we’re building in 2025. Instead of patching outdated patterns, I’m spending five months (June - October) in full-time upskilling mode - taking ten masterclasses on AI engineering, evaluation, security, and large-scale model training.
+
+This series shares what I learn along the way: real-world takeaways, working patterns, and the occasional hard lesson - one course at a time.
