@@ -1,6 +1,6 @@
 ---
 title: "Why this blog"
-image: profile.jpg
+image: hendrik.jpg
 about:
   template: jolla
   links:
